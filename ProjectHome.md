@@ -1,0 +1,1 @@
+[Project Euler](http://projecteuler.net/index.php?section=problems) has many mathematical challenges, which can be solved through computer programs. The J language yields the smallest solutions in terms of code size.
